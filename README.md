@@ -1,1 +1,3 @@
-# topics_in_applied_math
+# Projects Coded for Topic in Applied Mathematics
+
+This project is in progress
